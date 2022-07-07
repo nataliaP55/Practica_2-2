@@ -1,0 +1,6 @@
+#No agregamos la carpeta de node_modules NO  hace falta
+
+node_modules
+
+#no queremos que las credenciales privadas sean públicas
+.env
