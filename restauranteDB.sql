@@ -18,3 +18,4 @@ VALUES ("pizza", 900.0, TRUE);
 
 INSERT INTO platos (nombre, precio, con_oferta) 
 VALUES ("sushi", 1300.0, FALSE);
+
